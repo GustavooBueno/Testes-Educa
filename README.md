@@ -4,4 +4,4 @@
 - Testes de integração
 - Testes de sistema
 
-Vale ressaltar, que buscamos seguir as características FIRST (Fast, Independent, Repeatable, Self-validating, Timely).
+Vale ressaltar que buscamos seguir as características FIRST (Fast, Independent, Repeatable, Self-validating, Timely).
