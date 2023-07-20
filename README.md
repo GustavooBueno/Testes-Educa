@@ -1,11 +1,12 @@
-# TESTES AUTOMATIZADO DA PLATAFORMA DE ENSINO - EDUCA
+# TESTES AUTOMATIZADOs DA PLATAFORMA DE ENSINO - EDUCA
 
 ## TESTES UNITÁRIOS
+  - USUÁRIOS
+  - CURSOS
+  - TRILHAS
+  - AULAS
+    
+## TESTES DE INTEGRAÇÃO
+## TESTES DE SISTEMA
 
-### CRIAÇÃO DE USUÁRIO 
-
-### CRIAÇÃO DE CURSO 
-
-### CRIAÇÃO DE TRILHAS 
-
-### CRIAÇÃO DE AULA 
+Vale ressaltar que os testes foram realizados tentando seguir as características FIRST (Fast, Independent, Repeatable, Self-validating, Timely).
