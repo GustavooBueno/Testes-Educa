@@ -1,12 +1,12 @@
 # TESTES AUTOMATIZADOS DA PLATAFORMA DE ENSINO - EDUCA
 
 ## TESTES UNITÁRIOS
-Backend:
+###Backend:
   - USUÁRIOS
   - CURSOS
   - TRILHAS
   - AULAS
-Frontend:
+####Frontend:
     
 ## TESTES DE INTEGRAÇÃO
 ## TESTES DE SISTEMA
